@@ -16,4 +16,5 @@ func main() {
 	// john.print() // john.print undefined (type abcEmail has no field or method print)
 
 	email(john).print() // email: JohnDoe@abc.com
+
 }
